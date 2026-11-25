@@ -1,6 +1,6 @@
-# Claude Code Advanced Skills Pack — 7 Skills
+# Claude Code Advanced Skills Pack — 8 Skills
 
-This pack contains seven detailed, standalone Claude Code skills.
+This pack contains eight detailed, standalone Claude Code skills.
 
 ## Included
 1. `rea-reverse-engineering` — Reverse Engineering & Analysis
@@ -13,9 +13,11 @@ This pack contains seven detailed, standalone Claude Code skills.
 
 Each folder contains a `SKILL.md` with role, scope, workflow, detailed checklists, quality gates, safety rules, and required output formats.
 
+**Note:** `diagram-explainer-style` references companion files under `references/` (illustration kit, scene patterns, components, and code). Those companion files were not present in the source repository provided, so only its main `SKILL.md` is included here.
+
 ## Install globally for Claude Code
 
-Extract the ZIP, then copy the seven skill folders into:
+Extract the ZIP, then copy the eight skill folders into:
 
 `~/.claude/skills/`
 
