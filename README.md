@@ -10,6 +10,7 @@ This pack contains eight detailed, standalone Claude Code skills.
 5. `security-auditor` — Defensive security review and hardening
 6. `website-builder` — Production websites, SEO, accessibility, deployment
 7. `ui-ux-designer` — User flows, usability, accessibility, design systems
+8. `diagram-explainer-style` — Voiceover/SRT-based animated 2D explainer video editing and rendering
 
 Each folder contains a `SKILL.md` with role, scope, workflow, detailed checklists, quality gates, safety rules, and required output formats.
 
